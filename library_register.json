@@ -1,0 +1,29 @@
+{
+  "owner": "jonesdavidnvjgh3839-cloud",
+  "evaluated_by": "platform-team",
+  "decision_threshold_stars": 5000,
+  "register": [
+    {
+      "id": "LIB-0001",
+      "project": "PyMuPDF",
+      "full_name": "pymupdf/PyMuPDF",
+      "html_url": "https://github.com/pymupdf/PyMuPDF",
+      "stars": 10495,
+      "language": "Python",
+      "archived": false,
+      "decision": "recommended",
+      "reason": "high adoption"
+    },
+    {
+      "id": "LIB-0002",
+      "project": "pypdf",
+      "full_name": "py-pdf/pypdf",
+      "html_url": "https://github.com/py-pdf/pypdf",
+      "stars": 10160,
+      "language": "Python",
+      "archived": false,
+      "decision": "recommended",
+      "reason": "high adoption"
+    }
+  ]
+}
