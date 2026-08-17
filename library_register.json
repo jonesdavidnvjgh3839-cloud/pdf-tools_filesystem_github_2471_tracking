@@ -24,6 +24,39 @@
       "archived": false,
       "decision": "recommended",
       "reason": "high adoption"
+    },
+    {
+      "id": "LIB-0003",
+      "project": "pdfplumber",
+      "full_name": "jsvine/pdfplumber",
+      "html_url": "https://github.com/jsvine/pdfplumber",
+      "stars": 10665,
+      "language": "Python",
+      "archived": false,
+      "decision": "recommended",
+      "reason": "high adoption"
+    },
+    {
+      "id": "LIB-0004",
+      "project": "pdfminer.six",
+      "full_name": "pdfminer/pdfminer.six",
+      "html_url": "https://github.com/pdfminer/pdfminer.six",
+      "stars": 7017,
+      "language": "Python",
+      "archived": false,
+      "decision": "recommended",
+      "reason": "high adoption"
+    },
+    {
+      "id": "LIB-0005",
+      "project": "pdf2docx",
+      "full_name": "ArtifexSoftware/pdf2docx",
+      "html_url": "https://github.com/ArtifexSoftware/pdf2docx",
+      "stars": 3491,
+      "language": "Python",
+      "archived": false,
+      "decision": "needs_review",
+      "reason": "low adoption"
     }
   ]
 }
